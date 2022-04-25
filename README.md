@@ -4,6 +4,6 @@
 
 O projeto executado foi o nível básico, que junta dados da Campanha Nacional de Vacinação contra Covid-19 e faz uma série de armazenamentos em locais específicos e visualizações.
 
-O documento com as especificações do projeto pode ser acessada aqui.
+O documento com as especificações do projeto pode ser acessada [aqui](https://github.com/viccsouza/projeto_covidbr/blob/main/documents/projeto_final_spark.pdf).
 
-O projeto foi executado utilizando o Jupyter-Notebook em conjunto com o Pyspark e pode ser acessado aqui.
+O projeto foi executado utilizando o Jupyter-Notebook em conjunto com o Pyspark e pode ser acessado [aqui](https://github.com/viccsouza/projeto_covidbr/blob/main/pyspark/projeto_b%C3%A1sico.ipynb).
