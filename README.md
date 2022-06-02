@@ -61,3 +61,4 @@ _output:_
 -rw-r--r--   3 root supergroup      2.9 M 2022-04-26 23:35 /user/projeto_basico/dados/HIST_PAINEL_COVIDBR_2021_Parte2_06jul2021.csv
 
 
+### As questões seguintes podem ser acessadas [aqui](https://github.com/viccsouza/projeto_covidbr/blob/main/pyspark/projeto_b%C3%A1sico.ipynb).
